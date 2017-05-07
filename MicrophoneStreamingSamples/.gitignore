@@ -1,0 +1,22 @@
+## Ignore build results and temporary files.
+
+Backup*
+_UpgradeReport_Files
+bin
+obj
+AppPackages
+.vs
+Library
+HoloToolkit
+Temp
+
+HoloToolkit.meta
+*.rsp
+*.rsp.meta
+*.mdb
+*.pdb
+*.pidb
+*.suo
+*.user
+*.userprefs
+UpgradeLog*.*
